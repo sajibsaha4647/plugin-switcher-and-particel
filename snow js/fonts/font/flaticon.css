@@ -1,0 +1,63 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 15/12/2018 05:48
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("./Flaticon.eot");
+  src: url("./Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("./Flaticon.woff") format("woff"),
+       url("./Flaticon.ttf") format("truetype"),
+       url("./Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-play-button:before { content: "\f100"; }
+.flaticon-fork:before { content: "\f101"; }
+.flaticon-cutlery:before { content: "\f102"; }
+.flaticon-soup:before { content: "\f103"; }
+.flaticon-wine:before { content: "\f104"; }
+.flaticon-alarm-clock:before { content: "\f105"; }
+.flaticon-calendar-with-a-clock-time-tools:before { content: "\f106"; }
+.flaticon-sun:before { content: "\f107"; }
+.flaticon-search:before { content: "\f108"; }
+.flaticon-visible:before { content: "\f109"; }
+.flaticon-speech-bubble:before { content: "\f10a"; }
+.flaticon-smartphone:before { content: "\f10b"; }
+.flaticon-email:before { content: "\f10c"; }
+.flaticon-opened-email-envelope:before { content: "\f10d"; }
+.flaticon-home-page:before { content: "\f10e"; }
+.flaticon-house:before { content: "\f10f"; }
+.flaticon-facebook-logo:before { content: "\f110"; }
+.flaticon-twitter:before { content: "\f111"; }
+.flaticon-whatsapp:before { content: "\f112"; }
+.flaticon-behance:before { content: "\f113"; }
+.flaticon-youtube:before { content: "\f114"; }
+.flaticon-linkedin:before { content: "\f115"; }
+.flaticon-google-plus-logo:before { content: "\f116"; }
+.flaticon-pinterest:before { content: "\f117"; }
+.flaticon-star:before { content: "\f118"; }
+.flaticon-gmail:before { content: "\f119"; }
+.flaticon-gmail-1:before { content: "\f11a"; }
+.flaticon-shopping-cart:before { content: "\f11b"; }
+.flaticon-cutlery-1:before { content: "\f11c"; }
+.flaticon-coffee:before { content: "\f11d"; }
+.flaticon-sun-1:before { content: "\f11e"; }
+.flaticon-tulip:before { content: "\f11f"; }
+.flaticon-carrot:before { content: "\f120"; }
+.flaticon-watering-can:before { content: "\f121"; }

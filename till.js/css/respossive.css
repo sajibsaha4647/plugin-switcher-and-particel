@@ -1,0 +1,436 @@
+@media (max-width: 1200px) {
+	
+	
+	
+	
+	
+}
+
+@media (max-width: 992px) {
+
+/* style for product */
+.product_list ul li a {
+    width: 338px;
+}
+.header_two{
+	display:none;
+}
+/* end style for product */
+	
+
+
+	
+	
+}
+
+
+@media(min-width:768px) and (max-width:991px) {
+
+.container {
+	max-width: 960px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #fff;
+	background:transparent;
+}
+
+.header_two{
+	display:none;
+}
+.header_logo img {
+    width: 15%;
+    cursor: pointer;
+    padding: 14px 0px 12px 0px;
+    margin-left:0px;
+}
+.header_two{
+	display:none;
+}
+.header_three {
+    margin-top: -2px;
+}
+.slider_item .koching_koching{
+	height:600px!important;
+}
+.single_product_text h4 {
+    font-size: 11px;
+}
+element {
+}
+.kochin_kochin_text {
+    margin-top: 120px;
+}
+/* start style for product */
+
+.product_list ul li a {
+    width: 250px;
+}
+.padding_padding {
+    margin-left: 59px;
+}
+.view_product_details {
+    margin-top: 25px;
+}
+
+/* end style for product */
+
+/* start product details */
+
+.single_single_product_right {
+    padding: 20px 20px 35px 20px;
+}
+.single_single_details_text_bottom h3 {
+    font-size: 19px;
+}
+.single_single_details_text_bottom h4 {
+    font-size: 18px;
+}
+.side_side {
+    margin-left: 15px;
+}
+.side_side1 {
+    margin-left: -15px;
+}
+
+/* end product details */
+
+
+
+
+
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+	
+.container {
+	max-width: 960px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #fff;
+	background:transparent;
+}
+.header_two{
+	display:none;
+}
+button:focus{
+	outline:0;
+}
+
+element {
+
+}
+.header_logo img {
+    width: 19%;
+    cursor: pointer;
+    padding: 14px 0px 12px 0px;
+    margin-left: 0px;
+}
+.header_two{
+	display:none;
+}
+.header_three {
+    margin-top: -2px;
+}
+.slider_item .koching_koching{
+	height:500px!important;
+}
+.kochin_kochin_text {
+    margin-top: 100px;
+}
+.card_card{
+	position:absolute;
+	right:0;
+	top:-2px;
+}
+#mynav {
+    margin-top: 46px;
+	text-align:center;
+}
+#mynav ul {
+    margin-top:0px;
+}
+.header_three {
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+.single_product_text h4 {
+    font-size: 15px;
+    letter-spacing: 0px;
+    padding: 5px;
+}
+/*start style for about us */
+.aboutus_text p {
+    font-size: 13px;
+    line-height: 23px;
+}
+/*end style for about us */
+
+/* start style for product */
+
+.padding_padding1 {
+    margin-left: -20px;
+}
+.padding_padding {
+    margin-left: 20px;
+}
+.product_list ul li a {
+    width: 170px;
+    font-size: 14px;
+    padding: 0px 0px 0px 10px;
+}
+.view_product_details {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+}
+.view_product_details ul li {
+    font-size: 14px;
+}
+
+/* end style for product */
+
+/* start style for form */
+
+.from_list p {
+    font-size: 13px;
+}
+.list-group {
+    font-size: 14px;
+}
+
+
+/* start style for form */
+/* start product details */
+
+.single_single_product_right {
+    padding: 20px 20px 35px 20px;
+}
+.product_details_top h2 {
+    font-size: 26px;
+}
+.single_single_details_text_bottom h3 {
+    font-size: 14px;
+}
+.single_single_details_text_bottom h4 {
+    font-size: 15px;
+    margin-bottom: 40px;
+}
+.product_buy a {
+    height: 45px;
+    line-height: 45px;
+    width: 80px;
+    font-size: 14px;
+}
+.product_card a{
+	height: 45px;
+    line-height: 45px;
+    width: 80px;
+    font-size: 14px;
+}
+.side_side1 {
+    margin-left: -17px;
+}
+.side_side {
+    margin-left: 13px;
+}
+
+
+
+/* end product details */
+
+	
+}
+
+@media(max-width:575px){
+	
+.container {
+	max-width: 960px;
+}
+.nav-pills .nav-link.active, .show > .nav-pills .nav-link {
+    color: #fff;
+	background:transparent;
+}
+
+button:focus{
+	outline:0;
+}
+.header_two{
+	display:none;
+}
+.header_logo img {
+    width: 20%;
+    cursor: pointer;
+    padding: 14px 0px 12px 0px;
+    margin-left: 30px;
+}
+.header_two{
+	display:none;
+}
+.header_three {
+    margin-top: -2px;
+}
+.slider_item .koching_koching{
+	height:400px!important;
+}
+.card_card{
+	position:absolute;
+	right:0;
+	top:-3px;
+}
+#mynav {
+    margin-top: 46px;
+	text-align:center;
+	width:100%;
+}
+#mynav ul {
+    margin-top:0px;
+}
+.header_three {
+    padding-top: 10px;
+    padding-bottom: 16px;
+}
+.header_logo img {
+    width: 37%;
+    margin-left: 0px;
+}
+.change1_input {
+    height: 32px;
+    font-size: 11px;
+}
+.letter_btn_btn .fa {
+    width: 26px;
+    font-size: 11px;
+}
+.kochin_kochin_text h2 {
+    font-size: 16px;
+}
+.kochin_kochin_text h3 {
+    font-size: 22px;
+}
+.kochin_kochin_text {
+    margin-top: 72px;
+}
+.single_product_text h4 {
+    margin-bottom: 11px;
+}
+.certified {
+    padding: 25px 0px 50px 0px;
+}
+.partner_certified{
+	margin-bottom:20px;
+}
+.footer_top_menue ul li a {
+    font-size: 12px;
+    padding: 0px 2px 0px 4px;
+}
+.footer_bottom_menue ul li {
+    padding: 6px;
+    font-size: 11px;
+}
+.footer_top {
+    padding: 50px 0px 40px 0px;
+}
+
+/*start style for about us */
+.about_us_right h2 {
+    font-size: 18px;
+}
+.about_us_left h2 {
+    font-size: 18px;
+}
+.aboutus_text p {
+    font-size: 12px;
+    line-height: 19px;
+}
+.about_us {
+    padding: 60px 0px 0px 0px;
+}
+
+/*start style for about us */
+
+/* start style for product */
+
+.procut_overview ul {
+    font-size: 13px;
+}
+.pagination {
+    font-size: 12px;
+}
+.product_list ul li a {
+    width: 270px;
+}
+.padding_padding1 {
+    padding-left: 0px;
+}
+.view_product_details ul li {
+    font-size: 12px;
+}
+.view_product_details span {
+    font-size: 12px;
+}
+.view_product_details {
+    margin-top: 13px;
+}
+.all_pesi {
+    margin-top: 30px;
+}
+.padding_padding {
+    padding-right: 0px;
+}
+
+/* end style for product */
+
+/* start style for form */
+
+.list-group {
+    text-align: center;
+}
+.from_list {
+    margin-top: 30px;
+}
+.all_teb_pen {
+    padding: 50px 0px 80px 0px;
+}
+
+
+/* end style for form */	
+
+
+/* start product details */
+.product_details_top h2 {
+    font-size: 25px;
+}
+.product_details_top h4 {
+    font-size: 17px;
+}
+.single_single_details_text_bottom h3 {
+    font-size: 19px;
+}
+.single_single_details_text_bottom h4 {
+    font-size: 18px;
+}
+.product_buy a {
+    height: 45px;
+    line-height: 45px;
+    width: 100px;
+    font-size: 14px;
+}
+.product_card a{
+	height: 45px;
+    line-height: 45px;
+    width: 100px;
+    font-size: 14px;
+}
+.side_side1 {
+    margin-left: -16px;
+}
+.side_side {
+    margin-left: 15px;
+}
+
+
+
+/* end product details */
+
+
+}
